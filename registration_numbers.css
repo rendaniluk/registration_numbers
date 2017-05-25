@@ -1,5 +1,6 @@
 html{
-  background-color:aliceblue
+  background-color:aliceblue;
+background-image:url('reg.jpg')
 }
 
 #container {
@@ -7,7 +8,7 @@ html{
     padding : 1em;
     background-color:#d3e5f2;
     width: 50%;
-    border: 0.25em solid;
+    border: 0.25em slid;
     border-radius: 5%;
 }
 ul{
@@ -28,7 +29,6 @@ ul{
 
 li{
 	background-color: yellow;
-  	height:22px;
   	text-align:center;
   	width: 16%;
   	color:black;
@@ -87,3 +87,4 @@ footer{
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#72b352', endColorstr='#77b55a',GradientType=0);
 	background-color:#72b352;
 }
+
